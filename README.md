@@ -7,3 +7,10 @@
 📌 Currently working on AI-powered systems and exploring real-world applications. 
  
 🔍 Learning LLMs, Image Processing, and ML Model Optimization.  
+
+📫 Reach me at: rajlaxmikolhe007@gmail.com
+
+
+
+
+
