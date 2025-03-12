@@ -1,8 +1,9 @@
 # Hi, I'm Rajlaxmi!
-👩‍💻 BTech CSE Graduate | Machine Learning Enthusiast | AI-Powered Solutions Developer
 
-💡 Passionate about healthcare informatics, data analytics, and AI-driven innovations.
+👩‍💻 Final Year BTech CSE Student | Machine Learning Enthusiast | AI-Powered Solutions Developer  
 
-📌 Currently interning at EnLivenDX, building AI-powered systems for real-world applications.
+💡 Passionate about data analytics, AI-driven innovations, and front-end development.  
 
-🔍 Exploring LLMs, Image Processing, and ML Model Optimization.
+📌 Currently working on AI-powered systems and exploring real-world applications. 
+ 
+🔍 Learning LLMs, Image Processing, and ML Model Optimization.  
